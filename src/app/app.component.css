@@ -1,0 +1,27 @@
+.main{
+    background-color: #8ebf42;
+        color: #ffffff;
+        left: 50%;
+        top: 20%;
+        padding: 20px;
+        scroll-behavior: smooth;
+}
+.enter{
+    color: red;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
